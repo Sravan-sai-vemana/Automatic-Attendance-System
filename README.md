@@ -1,7 +1,7 @@
 ![image](https://github.com/Sravan-sai-vemana/Automatic-Attendance-System/assets/136155265/47ab6ab7-1bb3-482b-9b81-6a077b242408)TO make the code run download the ' openface_nn4.small2.v1.t7 ' in the main directory
 After training store the two files recognize.pickle and le.pickle for predictions and this is irreversable if the embeddings are gone through SVC
 so if you want to put a backup store the embeddings before SVC , so we can continue training.
-                                                Sample predictions -->
+                                              Sample predictions -->
 ![image](https://github.com/Sravan-sai-vemana/Automatic-Attendance-System/assets/136155265/673c4d0c-116b-4b0c-8568-d1e93188bc79)
 ![image](https://github.com/Sravan-sai-vemana/Automatic-Attendance-System/assets/136155265/9bf24e4d-5399-4cbf-9ce4-401527020393)
 ![image](https://github.com/Sravan-sai-vemana/Automatic-Attendance-System/assets/136155265/b5560f3c-166a-4e8f-8fc3-7f55a46499d2)
